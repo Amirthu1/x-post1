@@ -1,7 +1,7 @@
-#adapted from busterttoni11 and bboe's videos. 
+#code by Human... 
 
-#made by /u/TheEpicBlob. 
-#requested by /u/Aromatic_Sugar_966
+#code by Human...
+#code by Human..
 
 import praw
 
